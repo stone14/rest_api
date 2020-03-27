@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi9)
+bin/
+include/
+lib/
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/rest_api.iml
+lib/
+pyvenv.cfg
